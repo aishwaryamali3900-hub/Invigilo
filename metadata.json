@@ -1,0 +1,6 @@
+{
+  "name": "Invigilation and Room Allocation Engine",
+  "description": "A college examination management platform for automated invigilation scheduling, room capacity allocation, conflict detection, workload fairness tracking, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
